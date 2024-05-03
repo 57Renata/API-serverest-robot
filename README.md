@@ -16,6 +16,6 @@ Primeiro baixar o pyton na versão 3.12, instalar as libs de API para o projeto
 - Requestre
 - Selenium
 
-## Bultring
+## Bultin
 - String
 - Colections
